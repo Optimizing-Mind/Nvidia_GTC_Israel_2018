@@ -1,4 +1,4 @@
-[![GitPitch](https://gitpitch.com/assets/badge.svg)](https://gitpitch.com/Optimizing-Mind/slides/Nvidia_GTC_Israel_2018/master)
+[![GitPitch](https://gitpitch.com/assets/badge.svg)](https://gitpitch.com/Optimizing-Mind/Nvidia_GTC_Israel_2018/master)
 
 # OM Slides for an invited talk at Nvidia GTC Conference in Israel
 A GitPitch presentation that Geoffrey Hinton would approve of ;)
