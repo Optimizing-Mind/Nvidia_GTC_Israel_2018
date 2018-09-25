@@ -1,0 +1,4 @@
+theme: black
+theme-override : assets/css/PITCHME.css
+logo: assets/OM-small_logo.jpg
+published : true
